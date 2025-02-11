@@ -17,6 +17,8 @@ A **2D Running Game** is a fast-paced side-scroller where your character dashes 
 ## Screenshot 📸
 ![2D Running Game Screenshot](screenshot.png)
 
+🌍 Live Demo: [![Vercel](https://img.shields.io/badge/Live_Demo-000000?logo=vercel&logoColor=white)](https://2d-running-game.vercel.app/)
+
 ## How to Play 🎮
 1. Use the arrow keys (or predefined keys) to move your character ⬆️⬇️⬅️➡️.
 2. Dodge obstacles and collect power-ups to boost your score! 🚧💎
