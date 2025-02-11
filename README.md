@@ -15,7 +15,7 @@ A **2D Running Game** is a fast-paced side-scroller where your character dashes 
 - Simple and fun gameplay 🎮
 
 ## Screenshot 📸
-![2D Running Game Screenshot](path/to/screenshot.png)
+![2D Running Game Screenshot](path/to/screenshot.png.png)
 
 ## How to Play 🎮
 1. Use the arrow keys (or predefined keys) to move your character ⬆️⬇️⬅️➡️.
